@@ -1,0 +1,7 @@
+{
+	"n_baseline_trials": 12,
+	"n_practice_trials": 12,
+	"n_experimental_blocks": 6,
+	"n_experimental_trials": 32,
+	"max_experimental_trials" : 60
+}
